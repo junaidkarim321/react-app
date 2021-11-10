@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+  height: 595px;
+}
+.content h3{
+ font-size: 80px;
+}
+
+.content p {
+    font-size: 25px;
+    }
+ .content button{
+  margin-bottom: 220px;
+  margin-left: 50px;
+
+ font-size: 25px;
+ background: transparent;
+  border: 2px solid rgb(236, 203, 11);
+  color: white;
+  border-radius: 50px;
+  padding: 20px 50px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  transition: 0.3s;
+  white-space: nowrap;
+      }
+      /* /////////////////////////////////// */
+  
+      .mg{
+        height: 400px;
+      }
+     .firstsiv  img{
+          width: 60px;
+          height: 60px;
+          border-radius: 50%;
+      }
+      .divcontainer{
+          display: flex;
+      }
+      .patages{
+          width: 50%;
+          text-align:center;
+      }
